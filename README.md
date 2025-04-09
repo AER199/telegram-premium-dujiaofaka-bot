@@ -13,7 +13,7 @@ TG自助开通会员Telegram Premium
 
 演示后台:https://premium.hyperindex.tk/wocaole.php 用户名:admin 密码:Qwe123123
 
-演示机器人:https://t.me/zizhuprime_bot
+演示机器人:https://t.me/
 注意：机器人处客服不是此篇Github文章作者，作者在文章下方标注，认准！认准！不是作者处理后受骗了，后果自负！
 
 
@@ -26,4 +26,4 @@ TG自助开通会员Telegram Premium
 
 在宝塔的软件商店进程守护管理器，执行./ton/main即可，在后台自助开通会员处的api填写http://127.0.0.1:8888
 
-联系客服TG:https://t.me/AER00001 或 https://t.me/AER00001
+联系客服TG:https://t.me/AER_TGID 或 https://t.me/AERTG_ID
